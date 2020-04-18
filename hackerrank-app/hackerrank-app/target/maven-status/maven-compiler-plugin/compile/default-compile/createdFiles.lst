@@ -1,0 +1,6 @@
+com\hackerrank\eshopping\product\dashboard\config\SwaggerConfig.class
+com\hackerrank\eshopping\product\dashboard\Application.class
+com\hackerrank\eshopping\product\dashboard\controller\ProductsController.class
+com\hackerrank\eshopping\product\dashboard\model\Product.class
+com\hackerrank\eshopping\product\dashboard\repository\ProductRepository.class
+com\hackerrank\eshopping\product\dashboard\service\ProductService.class
